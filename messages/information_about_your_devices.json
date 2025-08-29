@@ -1,0 +1,130 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amlSyxUSzNAc"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10218861705364729"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amQKwAOtLPCsM"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10218770985656793"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "ameRCImSbHJQ0"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10216803301065908"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amz1b51iTYfw"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10213266531248873"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "ampLbtmyrXVns"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10211575501934197"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "am1XzgOeehgqE"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10210597319600250"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amgelX23nxU7s"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10210045772811925"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amFHHASRZ19RQ"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10208358218904132"
+  }
+]

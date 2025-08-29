@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Gary Plowman Jr"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735064089363,
+      "content": "I talked to him, he is ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735056418256,
+      "content": "Hey Gary, I got a concerning text from Chris :'( Is he ok?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gary Plowman Jr",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/garyplowmanjr_10225198408727495",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "messenger_contacts_blocked_v2": {
+    "name": "Messenger Contacts You've Blocked",
+    "description": "Contacts you've blocked on Messenger",
+    "entries": [
+      {
+        "timestamp": 1743219025,
+        "data": {
+          "name": "Rachel Timar",
+          "uri": "https://www.facebook.com/rachel.timar"
+        }
+      },
+      {
+        "timestamp": 1704391694,
+        "data": {
+          "name": "Robert Ethier",
+          "uri": "https://www.facebook.com/robert.ethier.3954"
+        }
+      },
+      {
+        "timestamp": 1677189384,
+        "data": {
+          "name": "April Loh",
+          "uri": "https://www.facebook.com/april.lohmaloney"
+        }
+      },
+      {
+        "timestamp": 1673967438,
+        "data": {
+          "name": "Melinda Gvn"
+        }
+      },
+      {
+        "timestamp": 1670370572,
+        "data": {
+          "name": "Mindy"
+        }
+      },
+      {
+        "timestamp": 1661673928,
+        "data": {
+          "name": "Jayden Grady",
+          "uri": "https://www.facebook.com/jayden.grady.14"
+        }
+      },
+      {
+        "timestamp": 1632597461,
+        "data": {
+          "name": "Robert Loh",
+          "uri": "https://www.facebook.com/profile.php?id=100070095885846"
+        }
+      },
+      {
+        "timestamp": 1632597405,
+        "data": {
+          "name": "RobKert Lohcca",
+          "uri": "https://www.facebook.com/profile.php?id=100063403658470"
+        }
+      },
+      {
+        "timestamp": 1632597384,
+        "data": {
+          "name": "Rachael Anton",
+          "uri": "https://www.facebook.com/rachael.anton.12"
+        }
+      },
+      {
+        "timestamp": 1632596627,
+        "data": {
+          "name": "Rachael Antonucci",
+          "uri": "https://www.facebook.com/rachael.antonucci.1"
+        }
+      },
+      {
+        "timestamp": 1632596104,
+        "data": {
+          "name": "Rob Loh",
+          "uri": "https://www.facebook.com/rob.loh.3705"
+        }
+      },
+      {
+        "timestamp": 1631855097,
+        "data": {
+          "name": "Justin Mcglynn",
+          "uri": "https://www.facebook.com/justin.mcglynn.927"
+        }
+      }
+    ]
+  }
+}

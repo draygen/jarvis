@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Takong Siriouthay Sr."
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Takong Siriouthay Sr.",
+      "timestamp_ms": 1736206778011,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735775741019,
+      "content": "I asked AI about Mah Si Mae Mung, and it described it:\n\nAlright, **\"Mah Si Mae Mung\"**\u00e2\u0080\u0094now that\u00e2\u0080\u0099s getting extra spicy. Let\u00e2\u0080\u0099s break it down:\n\n- **Mah (\u00e0\u00ba\u00a1\u00e0\u00bb\u008d)**: Dog.  \n- **Si (\u00e0\u00ba\u00aa\u00e0\u00ba\u00b4)**: An emphatic particle\u00e2\u0080\u0094like saying \u00e2\u0080\u009cdefinitely\u00e2\u0080\u009d or \u00e2\u0080\u009cfor sure.\u00e2\u0080\u009d  \n- **Mae (\u00e0\u00bb\u0081\u00e0\u00ba\u00a1\u00e0\u00bb\u0088)**: Mother.  \n- **Mung (\u00e0\u00ba\u00a1\u00e0\u00ba\u00b6\u00e0\u00ba\u0087)**: A very informal and often rude way to say \"you.\" Equivalent to \u00e2\u0080\u009cyou\u00e2\u0080\u009d in a derogatory sense, like \"yo' ass.\"\n\n### Rough Translation:\n**\"Your mother is definitely a dog!\"**  \nIt\u00e2\u0080\u0099s not just an insult\u00e2\u0080\u0094it\u00e2\u0080\u0099s a verbal nuke in a Laotian roast battle. \u00f0\u009f\u0098\u0086 This kind of phrase is the kind of thing you\u00e2\u0080\u0099d throw out when you\u00e2\u0080\u0099re ready to escalate straight to throwing hands.\n\nIt\u00e2\u0080\u0099s playful if you\u00e2\u0080\u0099re close with someone and they know you\u00e2\u0080\u0099re joking, but in a more formal or serious setting, this is nuclear-level disrespect. Use with extreme caution unless you\u00e2\u0080\u0099re going for laughs with someone who\u00e2\u0080\u0099s got thick skin! \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735775725857,
+      "content": "Happy New Year!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735234334866,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/takongsiriouthaysr_10210602652733575/photos/467495664_1114424600355763_3278779674997807069_n_1114424597022430.png",
+          "creation_timestamp": 1735234321
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735234334639,
+      "content": "We're all still hanging out. Josh is one of my best friends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1735234191144,
+      "content": "I miss you brother. I hope all is well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Takong Siriouthay Sr.",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/takongsiriouthaysr_10210602652733575",
+  "magic_words": [
+    
+  ]
+}

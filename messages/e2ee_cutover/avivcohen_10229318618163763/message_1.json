@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Aviv Cohen"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1717650792091,
+      "content": "Hi :) I believe you worked at Silk?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aviv Cohen",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/avivcohen_10229318618163763",
+  "magic_words": [
+    
+  ]
+}

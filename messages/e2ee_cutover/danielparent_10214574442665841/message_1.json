@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Parent"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1717628934785,
+      "content": "#truth right",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1717628929374,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/danielparent_10214574442665841/photos/442687953_835589525271812_7348282817019597823_n_1892179774614531.png",
+          "creation_timestamp": 1717628928
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Parent",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/danielparent_10214574442665841",
+  "magic_words": [
+    
+  ]
+}

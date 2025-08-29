@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Brian Wallace"
+    },
+    {
+      "name": "Kxng Dre"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kxng Dre",
+      "timestamp_ms": 1742573551143,
+      "content": "Kxng Dre sent you a message about your listing: Mavic Air 2 / AS-IS.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kxng Dre",
+      "timestamp_ms": 1742573545630,
+      "content": "Hi Brian, is this still available?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kxng Dre",
+      "timestamp_ms": 1742573545189,
+      "content": "Kxng started this chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kxng \u00c2\u00b7 Mavic Air 2 / AS-IS",
+  "is_still_participant": true,
+  "thread_path": "inbox/kxngmavicair2asis_28846139291697505",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Helena Gibb"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1727877760035,
+      "content": "Tired  of having to say it because of my actions, but again... im sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1727704498757,
+      "content": "But thats not why i reached out, wanted to make sure you're ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1727704484559,
+      "content": "Hey you :) I hope you're good.. I think I need help , and i know you have connects",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Helena Gibb",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/helenagibb_10206834604360488",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Robby Lowhe"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1721479585691,
+      "content": "Hope you're good bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Robby Lowhe",
+  "is_still_participant": true,
+  "thread_path": "inbox/robbylowhe_10219116582496498",
+  "magic_words": [
+    
+  ]
+}

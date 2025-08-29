@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Norma Gpe Ram\u00c3\u00adrez"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Norma Gpe Ram\u00c3\u00adrez",
+      "timestamp_ms": 1748133766056,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1748127288628,
+      "content": "Gracias. Pens\u00c3\u00a9 en lo que escribir\u00c3\u00ada si fuera sobre mi hija. Est\u00c3\u00a1 muy feliz, pero su ingl\u00c3\u00a9s es muy malo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Norma Gpe Ram\u00c3\u00adrez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Norma Gpe Ram\u00c3\u00adrez",
+      "timestamp_ms": 1748126974039,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Norma Gpe Ram\u00c3\u00adrez",
+      "timestamp_ms": 1748126971770,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Norma Gpe Ram\u00c3\u00adrez",
+      "timestamp_ms": 1748126966920,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Norma Gpe Ram\u00c3\u00adrez",
+      "timestamp_ms": 1748126828113,
+      "content": "Que bonita \u00f0\u009f\u00a5\u00b0\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Norma Gpe Ram\u00c3\u00adrez",
+      "timestamp_ms": 1748126766975,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1748120188260,
+      "content": "Espero no haber traducido mal. \u00c2\u00a1Ya es bastante dif\u00c3\u00adcil escribir letras en ingl\u00c3\u00a9s! Jajaja :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Norma Gpe Ram\u00c3\u00adrez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1748120151722,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/normagperamirez_10217262048035729/audio/jeansydadsong_1231969701908193.mp3",
+          "creation_timestamp": 1748120150
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Norma Gpe Ram\u00c3\u00adrez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1748120144392,
+      "content": "Escrib\u00c3\u00ad esta canci\u00c3\u00b3n para el padre salvadore\u00c3\u00b1o de la novia de mi hijo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Norma Gpe Ram\u00c3\u00adrez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Norma Gpe Ram\u00c3\u00adrez",
+  "is_still_participant": true,
+  "thread_path": "inbox/normagperamirez_10217262048035729",
+  "magic_words": [
+    
+  ]
+}

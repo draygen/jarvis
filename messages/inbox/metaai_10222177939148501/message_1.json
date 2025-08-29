@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Meta AI"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1725315642288,
+      "content": "Here are some top-rated art podcasts that you might enjoy \u00c2\u00b9 \u00c2\u00b2 \u00c2\u00b3:\n\n- *_Articles of Interest_*: A podcast that explores the relationship between clothing and society.\n- *_Talk Art_*: A British podcast that discusses trends in contemporary art and the experiences of collecting artwork.\n- *_The Lonely Palette_*: A podcast that makes art history accessible to everyone by rejecting the idea that art history is elitist.\n- *_Death of an Artist_*: A podcast that explores the life and possible murder of artist Ana Mendieta.\n- *_Are We on Air?_*: An interview podcast that covers contemporary art and culture.\n- *_A Piece of Work_*: A podcast that makes modern and contemporary art approachable.\n- *_Bad at Sports_*: A weekly podcast about contemporary art.\n- *_The Jealous Curator: Art for Your Ears_*: A podcast that brings you the gossip on contemporary artists.\n- *_The Modern Art Notes Podcast_*: A podcast that interviews artists, art historians, curators, critics and authors.\n- *_ArtCurious_*: A podcast that makes art history fun and exciting.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1725315639314,
+      "content": "Top rated art podcasts",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meta AI",
+  "is_still_participant": true,
+  "thread_path": "inbox/metaai_10222177939148501",
+  "magic_words": [
+    
+  ]
+}

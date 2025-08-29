@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Aurora Wrenley"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722375023330,
+      "content": "Seriously? :) Mia Malkova i dont even watch porn and i know who you're stealing pics from",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aurora Wrenley",
+  "is_still_participant": true,
+  "thread_path": "inbox/aurorawrenley_10222786795769536",
+  "magic_words": [
+    
+  ]
+}

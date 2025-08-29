@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Messenger"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1737508574048,
+      "content": "Send photos in HD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1737508573114,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/messenger_10224467858675058/videos/466846563_936156791703999_8730911718072988653_n_1653737978562653.mp4",
+          "creation_timestamp": 1737508570
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Messenger",
+  "is_still_participant": true,
+  "thread_path": "inbox/messenger_10224467858675058",
+  "magic_words": [
+    
+  ]
+}

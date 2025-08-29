@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Chris Pangalos"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722307930466,
+      "content": "this game is crazy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722307927773,
+      "content": "https://www.youtube.com/watch?v=7duGsFcbf34",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=7duGsFcbf34",
+        "share_text": "Star Citizen, draygen - not forgetting to keep his helmet on before jumping out into space."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Pangalos",
+      "timestamp_ms": 1722217595593,
+      "content": "Take it easy brother! You need to put some focus on your health.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Brian Wallace",
+          "timestamp": 1722219185
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722212458193,
+      "content": "yeah scary shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Pangalos",
+      "timestamp_ms": 1722212436607,
+      "content": "Fuckin yikes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722211563972,
+      "content": "pooping blood\nright after i had the cut off a growth on my fingertip, thought it was a corn \u00f0\u009f\u0099\u0081 it wasnt .. then sores appeared all over my lymph nodes - thought i had an std\n\nit wasnt that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722211541992,
+      "content": "trying to keep my job \u00f0\u009f\u0099\u0081 right now im on the chopping block because ive been really sick, been in hospital",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Pangalos",
+      "timestamp_ms": 1722211360558,
+      "content": "Good to hear! What the hell happened?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722211154159,
+      "content": "im ok i think",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1722211148421,
+      "content": "hey bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Pangalos",
+      "timestamp_ms": 1722208335247,
+      "content": "Hey! Everything OK with you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chris Pangalos",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/chrispangalos_10212547318709009",
+  "magic_words": [
+    
+  ]
+}

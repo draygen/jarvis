@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Freedom Kotsonas"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Freedom Kotsonas",
+      "timestamp_ms": 1723400411854,
+      "content": "Who would that be with Brian",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Freedom Kotsonas",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/freedomkotsonas_10222128254386413",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Logan Briggs"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1723753540260,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Logan Briggs",
+      "timestamp_ms": 1723753478752,
+      "content": "It\u00e2\u0080\u0099s Kendra I got told you wanted to say sorry but I am going to be up front am all set I am tired of drama and hearing sorry and the same stuff happening and trying of getting it trowed it my face I I called DCF after 11 years kids needed help so I called and sorry i would do it again am not sorry I can\u00e2\u0080\u0099t befriends anymore",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1723752676065,
+      "content": "I dont have it right this moment but i'll put it there as soon as I do. I was fired, and they are giving me another check but not until the 31st - getting unemployment before that.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Logan Briggs",
+      "timestamp_ms": 1723751834108,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1723751623439,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Logan Briggs",
+      "timestamp_ms": 1723751250029,
+      "content": "It\u00e2\u0080\u0099s Kendra I\u00e2\u0080\u0099m just contacting you because Christine said that you wanted to pay me back the $20 that\u00e2\u0080\u0099s fine put it in an envelope and put it under my mat on my porch. Thank you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Logan Briggs",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/loganbriggs_10207863798663935",
+  "magic_words": [
+    
+  ]
+}

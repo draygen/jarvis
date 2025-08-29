@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Frat Chef"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1739655580573,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/fratchef_10224584409908766/audio/audioclip17396555780008448_997808595740642.mp4",
+          "creation_timestamp": 1739655578
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frat Chef",
+  "is_still_participant": true,
+  "thread_path": "inbox/fratchef_10224584409908766",
+  "magic_words": [
+    
+  ]
+}

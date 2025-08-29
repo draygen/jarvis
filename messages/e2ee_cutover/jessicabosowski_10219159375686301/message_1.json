@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Bosowski"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1720985193398,
+      "content": "hey cousin! miss you , and i hope all is well with you!!! my buddy just got a 1969 mach 1 and im trying to find someone to be excited about it with haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessica Bosowski",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/jessicabosowski_10219159375686301",
+  "magic_words": [
+    
+  ]
+}

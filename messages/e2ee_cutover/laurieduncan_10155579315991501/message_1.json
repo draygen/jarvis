@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Laurie Duncan"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1719069460971,
+      "content": "i know ur not a fan of me and i get it... but if you're still around Ryan (he has me blocked), let him know that Julie Campbell killed herself yesterday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Laurie Duncan",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/laurieduncan_10155579315991501",
+  "magic_words": [
+    
+  ]
+}

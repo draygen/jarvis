@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Tim Dally"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1717214295185,
+      "content": "Bro. You were in the 1989 video gaming contest at landmark video? haha thats awesome. I was in 1988",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tim Dally",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/timdally_10222454576424260",
+  "magic_words": [
+    
+  ]
+}

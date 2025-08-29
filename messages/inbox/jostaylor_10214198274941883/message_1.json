@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jos Taylor"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1725239799708,
+      "content": "ooops wrong josh sorry lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1725239789868,
+      "content": "different",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1725239788311,
+      "content": "he income distribution among streamers is highly skewed, with a small percentage of top-tier streamers earning the majority of the revenue. According to a 2021 leak of Twitch earnings, the top 1% of streamers earned more than half of the total revenue on the platform. This means that a very small group of streamers is making substantial income, while the vast majority are earning little to nothing.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos Taylor",
+  "is_still_participant": true,
+  "thread_path": "inbox/jostaylor_10214198274941883",
+  "magic_words": [
+    
+  ]
+}

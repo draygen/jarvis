@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Bev Morin"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bev Morin",
+      "timestamp_ms": 1717457776116,
+      "content": "Bev sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bev Morin",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/bevmorin_10220998312698577",
+  "magic_words": [
+    
+  ]
+}

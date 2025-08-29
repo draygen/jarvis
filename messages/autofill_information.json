@@ -1,0 +1,57 @@
+{
+  "autofill_information_v2": {
+    "CITY": [
+      "Lowell"
+    ],
+    "STATE": [
+      "MA"
+    ],
+    "COUNTRY": [
+      "US"
+    ],
+    "EMAIL": [
+      "draygen80@gmail.com",
+      "draygen@comcast.net"
+    ],
+    "PHONE": [
+      "+19782019940",
+      "+19789955282",
+      "+19789050332"
+    ],
+    "JOB_TITLE": [
+      "Sr. Technical Support Engineer"
+    ],
+    "COMPANY_NAME": [
+      "Computer software"
+    ],
+    "GENDER": [
+      "male"
+    ],
+    "SLIDER": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "FIRST_NAME": [
+      "Brian"
+    ],
+    "LAST_NAME": [
+      "Wallace"
+    ],
+    "FULL_NAME": [
+      "Brian Wallace"
+    ],
+    "WORK_EMAIL": [
+      "draygen80@gmail.com",
+      "draygen@comcast.net"
+    ],
+    "WORK_PHONE": [
+      "+19782019940",
+      "+19789955282",
+      "+19789050332"
+    ]
+  }
+}

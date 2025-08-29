@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Brian Wallace"
+    },
+    {
+      "name": "Sean May"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sean May",
+      "timestamp_ms": 1742599111938,
+      "content": "Now do you have wheels? & What would you want for meeting me half way?If it would be possible. Plattsburgh Ny is where I'm coming from.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1742563805875,
+      "content": "Beware of common scams using payment apps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1742563804247,
+      "content": "I can part with it for $150, I'll miss it even its in condition (no working gimbal) but like you said about 300-400 in repairs.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean May",
+      "timestamp_ms": 1742554600858,
+      "content": "Sean is waiting for your response.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean May",
+      "timestamp_ms": 1742521249272,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean May",
+      "timestamp_ms": 1742521242882,
+      "content": "$150 about 3 to 400 in repairs to be done.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean May",
+      "timestamp_ms": 1742521242657,
+      "content": "Sean started this chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sean \u00c2\u00b7 Mavic Air 2 / AS-IS",
+  "is_still_participant": true,
+  "thread_path": "inbox/seanmavicair2asis_9309051572535410",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

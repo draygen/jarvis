@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Christine Palmer"
+    },
+    {
+      "name": "Kendra E Sprague Juliano"
+    },
+    {
+      "name": "Mackenzie Morgan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1717263144816,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christine, Kendra E and Mackenzie",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/christinekendraeandmackenzie_7629814143760756",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

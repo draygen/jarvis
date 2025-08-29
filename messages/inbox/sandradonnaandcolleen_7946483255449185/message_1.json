@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Sandra Zerbinopoulos Wallace Ruchin"
+    },
+    {
+      "name": "Brian Wallace"
+    },
+    {
+      "name": "Donna Wallace Lupien Martin"
+    },
+    {
+      "name": "Colleen Prak"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandra Zerbinopoulos Wallace Ruchin",
+      "timestamp_ms": 1737389438904,
+      "content": "Better times",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Brian Wallace",
+          "timestamp": 1737394836
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1737389370709,
+      "content": "Ahhh the good old days of just having to come home after the street lights went off... I wish it were still like that. My kids wont even leave the house,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandra Zerbinopoulos Wallace Ruchin",
+      "timestamp_ms": 1737388818862,
+      "content": "Sandra sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/oureasycraft/videos/1255753599026661/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1725899831827,
+      "content": "Nothing wrong with that by the way.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1725899740568,
+      "content": "They're jewish",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandra Zerbinopoulos Wallace Ruchin",
+      "timestamp_ms": 1725898842472,
+      "content": "thought this was interesting",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sandra, Donna and Colleen",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandradonnaandcolleen_7946483255449185",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

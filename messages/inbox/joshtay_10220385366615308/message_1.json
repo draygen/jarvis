@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Josh Tay"
+    },
+    {
+      "name": "Brian Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Wallace",
+      "timestamp_ms": 1742838711603,
+      "content": "you guys are crazy lol , like voting for trump spreading anti-vax shit and hating on people of color , wtf happened to you guys/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josh Tay",
+  "is_still_participant": true,
+  "thread_path": "inbox/joshtay_10220385366615308",
+  "magic_words": [
+    
+  ]
+}
